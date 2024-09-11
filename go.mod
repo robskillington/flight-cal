@@ -1,6 +1,6 @@
 module github.com/blalor/flight-cal
 
-go 1.23.0
+go 1.23
 
 require (
 	github.com/arran4/golang-ical v0.0.0-20181016092553-4d707e739562
